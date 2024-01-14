@@ -28,7 +28,7 @@ pip install -r requirements.txt
    - O script solicitará que você insira o URL do perfil Steam desejado.
 
 ```bash
-python nome_do_script.py
+python main.py
 ```
 
 4. **Insira o URL do Perfil Steam:**
