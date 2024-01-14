@@ -48,10 +48,6 @@ Este repositório contém um script em Python desenvolvido para realizar Open So
 
 Adicione aqui exemplos práticos de como integrar os resultados extraídos do script em outros projetos ou scripts.
 
-### Contribuição
-
-Sinta-se à vontade para contribuir! Veja [CONTRIBUINDO.md](CONTRIBUINDO.md) para mais detalhes.
-
 ### Observações
 
 - Certifique-se de respeitar os Termos de Serviço do Steam ao usar este script para evitar violações.
