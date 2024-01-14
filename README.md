@@ -11,25 +11,25 @@ Este repositório contém um script em Python desenvolvido para realizar Open So
 1. **Clone o Repositório:**
    - Clone este repositório para o seu ambiente local usando o seguinte comando:
 
-```bash
-git clone https://github.com/kensdy/OSINT-Steam/
-cd OSINT-Steam
-```
+   ```bash
+   git clone https://github.com/kensdy/OSINT-Steam/
+   cd OSINT-Steam
+   ```
 
 2. **Instale as Dependências:**
    - Antes de executar o script, instale as dependências necessárias usando o seguinte comando:
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. **Execute o Script:**
    - Execute o script em um ambiente Python.
    - O script solicitará que você insira o URL do perfil Steam desejado.
 
-```bash
-python main.py
-```
+   ```bash
+   python main.py
+   ```
 
 4. **Insira o URL do Perfil Steam:**
    - Digite o URL do perfil Steam quando solicitado.
@@ -44,9 +44,20 @@ python main.py
 - **Nível:** Nível do perfil Steam.
 - **Status:** Status atual do perfil Steam.
 
+### Exemplo de Uso
+
+Adicione aqui exemplos práticos de como integrar os resultados extraídos do script em outros projetos ou scripts.
+
+### Contribuição
+
+Sinta-se à vontade para contribuir! Veja [CONTRIBUINDO.md](CONTRIBUINDO.md) para mais detalhes.
+
 ### Observações
 
 - Certifique-se de respeitar os Termos de Serviço do Steam ao usar este script para evitar violações.
 - Em caso de erro ao acessar o perfil Steam, será exibido o código de status correspondente.
 
 Esperamos que este script seja útil para obter informações específicas de perfis Steam de forma eficiente. Se tiver alguma dúvida ou sugestão de melhoria, sinta-se à vontade para contribuir ou entrar em contato.
+```
+
+Lembre-se de ajustar conforme suas preferências e necessidades específicas.
