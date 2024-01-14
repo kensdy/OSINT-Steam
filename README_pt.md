@@ -1,5 +1,5 @@
 # README
-[Inglês](README.md) | Português
+[English](README.md) | Português
 
 
 ## OSINT-Steam
