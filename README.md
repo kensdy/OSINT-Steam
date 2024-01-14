@@ -1,59 +1,58 @@
 # README
+Inglês | [Português](README_pt.md)
+
 
 ## OSINT-Steam
 
-Este repositório contém um script em Python desenvolvido para realizar Open Source Intelligence (OSINT) em perfis Steam. Ele extrai informações detalhadas, como nome/nick, avatar, nome real, localização, atividade recente, nível e status do perfil Steam.
+This repository contains a Python script designed for Open Source Intelligence (OSINT) on Steam profiles. It extracts detailed information such as name/nickname, avatar, real name, location, recent activity, level, and status of the Steam profile.
 
-[![Visualizações do Repositório](https://komarev.com/ghpvc/?username=kensdy&label=Visualizações&color=brightgreen)](https://github.com/kensdy/OSINT-Steam)
+[![Repository Views](https://komarev.com/ghpvc/?username=kensdy&label=Views&color=brightgreen)](https://github.com/kensdy/OSINT-Steam)
 
-### Utilização
+### Usage
 
-1. **Clone o Repositório:**
-   - Clone este repositório para o seu ambiente local usando o seguinte comando:
+1. **Clone the Repository:**
+   - Clone this repository to your local environment using the following command:
 
    ```bash
    git clone https://github.com/kensdy/OSINT-Steam/
    cd OSINT-Steam
    ```
 
-2. **Instale as Dependências:**
-   - Antes de executar o script, instale as dependências necessárias usando o seguinte comando:
+2. **Install Dependencies:**
+   - Before running the script, install the required dependencies using the following command:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Execute o Script:**
-   - Execute o script em um ambiente Python.
-   - O script solicitará que você insira o URL do perfil Steam desejado.
+3. **Run the Script:**
+   - Execute the script in a Python environment.
+   - The script will prompt you to enter the desired Steam profile URL.
 
    ```bash
    python main.py
    ```
 
-4. **Insira o URL do Perfil Steam:**
-   - Digite o URL do perfil Steam quando solicitado.
+4. **Enter the Steam Profile URL:**
+   - Input the Steam profile URL when prompted.
 
-### Informações Extraídas
+### Extracted Information
 
-- **Nome/Nick:** Nome ou apelido do perfil Steam.
-- **Avatar:** Link direto para a imagem do avatar.
-- **Nome Real:** Nome real associado ao perfil (se disponível).
-- **Localização:** Localização indicada no perfil Steam (se disponível).
-- **Atividade Recente:** Tempo da atividade mais recente no perfil Steam.
-- **Nível:** Nível do perfil Steam.
-- **Status:** Status atual do perfil Steam.
+- **Name/Nickname:** Steam profile name or nickname.
+- **Avatar:** Direct link to the avatar image.
+- **Real Name:** Real name associated with the profile (if available).
+- **Location:** Location indicated on the Steam profile (if available).
+- **Recent Activity:** Time of the most recent activity on the Steam profile.
+- **Level:** Steam profile level.
+- **Status:** Current status of the Steam profile.
 
-### Exemplo de Uso
+### Usage Example
 
-Adicione aqui exemplos práticos de como integrar os resultados extraídos do script em outros projetos ou scripts.
+Include practical examples of how to integrate the extracted results from the script into other projects or scripts.
 
-### Observações
+### Notes
 
-- Certifique-se de respeitar os Termos de Serviço do Steam ao usar este script para evitar violações.
-- Em caso de erro ao acessar o perfil Steam, será exibido o código de status correspondente.
+- Ensure compliance with Steam's Terms of Service when using this script to avoid violations.
+- In case of an error accessing the Steam profile, the corresponding status code will be displayed.
 
-Esperamos que este script seja útil para obter informações específicas de perfis Steam de forma eficiente. Se tiver alguma dúvida ou sugestão de melhoria, sinta-se à vontade para contribuir ou entrar em contato.
-```
-
-Lembre-se de ajustar conforme suas preferências e necessidades específicas.
+We hope this script proves useful for efficiently obtaining specific information from Steam profiles. If you have any questions or suggestions for improvement, feel free to contribute or get in touch.
