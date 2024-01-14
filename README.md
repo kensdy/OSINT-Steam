@@ -1,22 +1,36 @@
-# OSINT-Steam
+# README
 
-Este script em Python foi desenvolvido para extrair informações detalhadas de perfis Steam, proporcionando uma visão rápida e personalizada. Utilizando web scraping com as bibliotecas `requests` e `BeautifulSoup`, o código permite a obtenção de dados como nome/nick, avatar, nome real, localização, atividade recente, nível e status do perfil.
+## OSINT-Steam
+
+Este repositório contém um script em Python desenvolvido para realizar Open Source Intelligence (OSINT) em perfis Steam. Ele extrai informações detalhadas, como nome/nick, avatar, nome real, localização, atividade recente, nível e status do perfil Steam.
 
 ### Utilização
 
-1. **Substitua a URL do Perfil Steam:**
-   - No início do script, substitua a variável `url` pelo URL do perfil Steam desejado.
+1. **Clone o Repositório:**
+   - Clone este repositório para o seu ambiente local usando o seguinte comando:
 
-```python
-url = 'URL_DO_PERFIL_STEAM'  # Substitua pelo URL do perfil Steam desejado
+```bash
+git clone https://github.com/kensdy/OSINT-Steam/
+cd OSINT-Steam
 ```
 
-2. **Execute o Script:**
-   - Após substituir a URL, execute o script em um ambiente Python para visualizar as informações extraídas do perfil.
+2. **Instale as Dependências:**
+   - Antes de executar o script, instale as dependências necessárias usando o seguinte comando:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. **Execute o Script:**
+   - Execute o script em um ambiente Python.
+   - O script solicitará que você insira o URL do perfil Steam desejado.
 
 ```bash
 python nome_do_script.py
 ```
+
+4. **Insira o URL do Perfil Steam:**
+   - Digite o URL do perfil Steam quando solicitado.
 
 ### Informações Extraídas
 
