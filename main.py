@@ -1,6 +1,23 @@
 import requests
 from bs4 import BeautifulSoup
 
+# ASCII Art
+ascii_art = """
+ ___  ____ ___ _   _ _____    
+/ _ \/ ___|_ _| \ | |_   _|   
+| | | \___ \| ||  \| | | |     
+| |_| |___) | || |\  | | |     
+ \___/|____/___|_| \_| |_|     
+/ ___|| |_ ___  __ _ _ __ ___  
+\___ \| __/ _ \/ _` | '_ ` _ \ 
+ ___) | ||  __/ (_| | | | | | |
+|____/ \__\___|\__,_|_| |_| |_|
+Criado por Kensdy
+"""
+
+print(ascii_art)
+
+
 # Solicita a URL do perfil Steam
 url = input("Digite o URL do perfil Steam: ")
 
