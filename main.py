@@ -17,7 +17,6 @@ Criado por Kensdy
 
 print(ascii_art)
 
-
 # Solicita a URL do perfil Steam
 url = input("Digite o URL do perfil Steam: ")
 
@@ -25,6 +24,7 @@ url = input("Digite o URL do perfil Steam: ")
 response = requests.get(url)
 
 if response.status_code == 200:
+    # Cria um objeto BeautifulSoup para facilitar a extração de informações do HTML
     soup = BeautifulSoup(response.text, 'html.parser')
 
     # Extrai informações específicas
