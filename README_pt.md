@@ -46,16 +46,9 @@ Este repositório contém um script em Python desenvolvido para realizar Open So
 - **Nível:** Nível do perfil Steam.
 - **Status:** Status atual do perfil Steam.
 
-### Exemplo de Uso
-
-Adicione aqui exemplos práticos de como integrar os resultados extraídos do script em outros projetos ou scripts.
-
 ### Observações
 
 - Certifique-se de respeitar os Termos de Serviço do Steam ao usar este script para evitar violações.
 - Em caso de erro ao acessar o perfil Steam, será exibido o código de status correspondente.
 
 Esperamos que este script seja útil para obter informações específicas de perfis Steam de forma eficiente. Se tiver alguma dúvida ou sugestão de melhoria, sinta-se à vontade para contribuir ou entrar em contato.
-```
-
-Lembre-se de ajustar conforme suas preferências e necessidades específicas.
