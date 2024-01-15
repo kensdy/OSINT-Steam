@@ -30,7 +30,7 @@ Este repositório contém um script em Python desenvolvido para realizar Open So
    - O script solicitará que você insira o URL do perfil Steam desejado.
 
    ```bash
-   python main.py
+   python main_ptbr.py
    ```
 
 4. **Insira o URL do Perfil Steam:**
