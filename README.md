@@ -46,10 +46,6 @@ This repository contains a Python script designed for Open Source Intelligence (
 - **Level:** Steam profile level.
 - **Status:** Current status of the Steam profile.
 
-### Usage Example
-
-Include practical examples of how to integrate the extracted results from the script into other projects or scripts.
-
 ### Notes
 
 - Ensure compliance with Steam's Terms of Service when using this script to avoid violations.
