@@ -6,7 +6,7 @@ English | [Português](README_pt.md)
 
 This repository contains a Python script designed for Open Source Intelligence (OSINT) on Steam profiles. It extracts detailed information such as name/nickname, avatar, real name, location, recent activity, level, and status of the Steam profile.
 
-[![Visualizações do Repositório](https://komarev.com/ghpvc/?username=kensdy&label=Visualizações&color=brightgreen)](https://github.com/kensdy/OSINT-Steam)
+[![Visualizações do Repositório](https://667b0caf-a9d5-4b83-ae7c-c08ab5ecc45d-00-2ptar1l9fkkhe.kirk.replit.dev/link/kik)](https://github.com/kensdy/OSINT-Steam)
 
 ### Usage
 
